@@ -1,4 +1,4 @@
-# create_ai_genie
+# ai
 
 A new Flutter project.
 
